@@ -1,0 +1,1 @@
+This folder contains corner plots of the distributions underlying the results in Bloot et al. (2023). The title of each file contains the planet name and a description of the run. In each plot, the blue line indicates the measured radius.
